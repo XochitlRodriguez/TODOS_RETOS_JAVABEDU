@@ -1,0 +1,2 @@
+Ocurrió un error al analizar el log:
+errores.log
